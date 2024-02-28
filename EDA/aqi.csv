@@ -1,4 +1,4 @@
-Date & Time,AQI,High AQI,PM 1 - ug/m³,High PM 1 - ug/m³,PM 2.5 - ug/m³,High PM 2.5 - ug/m³,PM 10 - ug/m³,High PM 10 - ug/m³,Temp - °C,High Temp - °C,Low Temp - °C,Hum - %,High Hum - %,Low Hum - %,Dew Point - °C,High Dew Point - °C,Low Dew Point - °C,Wet Bulb - °C,High Wet Bulb - °C,Low Wet Bulb - °C,Heat Index - °C,High Heat Index - °C
+Date & Time,AQI,High AQI,PM 1 - ug/mÂ³,High PM 1 - ug/mÂ³,PM 2.5 - ug/mÂ³,High PM 2.5 - ug/mÂ³,PM 10 - ug/mÂ³,High PM 10 - ug/mÂ³,Temp - Â°C,High Temp - Â°C,Low Temp - Â°C,Hum - %,High Hum - %,Low Hum - %,Dew Point - Â°C,High Dew Point - Â°C,Low Dew Point - Â°C,Wet Bulb - Â°C,High Wet Bulb - Â°C,Low Wet Bulb - Â°C,Heat Index - Â°C,High Heat Index - Â°C
 11-01-2023 16:00,301,310,78,83,121,132,132,147,32,32,32,60,60,59,24,24,23,25,25,25,38,38
 11-01-2023 16:15,283,304,72,81,115,125,128,147,32,32,32,60,61,60,24,24,24,25,25,25,38,38
 11-01-2023 16:30,283,305,72,79,115,126,126,144,32,32,32,60,62,60,24,24,24,25,26,25,38,39
